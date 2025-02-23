@@ -1,0 +1,1 @@
+worker1: dvoyka_ds.py
